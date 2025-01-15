@@ -1,0 +1,16 @@
+# environment
+python-dotenv==1.0.1
+
+# jupyter
+jupyter==1.1.1
+ipykernel
+
+# numpy
+numpy
+
+# matplotlib
+matplotlib
+
+graphviz
+
+torch
