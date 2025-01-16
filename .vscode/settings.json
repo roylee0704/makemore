@@ -1,0 +1,5 @@
+{
+    "cursor.chat.terminalShowHoverHint": true,
+    "cursor.cmdk.autoSelect": true,
+    "cursor.composer.agentLoopOnLints": true
+}
